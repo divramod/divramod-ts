@@ -1,6 +1,6 @@
 {
   "name": "divramod-typescript-starter",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "A typescript starter for building javascript libraries and projects",
   "bin": {
     "divramod-typescript-starter": "./bin/divramod-typescript-starter",
