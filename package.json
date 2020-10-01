@@ -1,6 +1,6 @@
 {
   "name": "divramod-ts",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "A typescript starter for building javascript libraries and projects",
   "bin": {
     "dts": "./bin/dts"
