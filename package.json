@@ -30,7 +30,7 @@
     "appveyor"
   ],
   "scripts": {
-    "pub": "npm version patch && git push origin --tags && npm publish",
+    "pub": "npm version patch && git push origin --tags && npm publish --latest",
     "build": "run-p build:*",
     "build:main": "tsc -p tsconfig.json",
     "build:module": "tsc -p tsconfig.module.json",
