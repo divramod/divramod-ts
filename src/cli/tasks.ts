@@ -163,7 +163,7 @@ export const getRepoInfo = (starterVersion: string) => {
       }
     : {
         branch: `v${starterVersion}`,
-        repo: 'https://github.com/divramod/dts',
+        repo: 'https://github.com/divramod/divramod-ts',
       };
 };
 
