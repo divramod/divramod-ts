@@ -61,6 +61,7 @@ export async function typescriptStarter(
   const keptDevDeps: ReadonlyArray<string> = [
     '@ava/typescript',
     '@istanbuljs/nyc-config-typescript',
+    '@node/types',
     '@typescript-eslint/eslint-plugin',
     '@typescript-eslint/parser',
     'ava',
