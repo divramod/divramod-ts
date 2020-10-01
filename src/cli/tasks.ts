@@ -121,7 +121,7 @@ export const initialCommit = (spawner: typeof execa) => async (
     [
       'commit',
       '-m',
-      `Initial commit\n\nCreated with bitjson/typescript-starter@${hash}`,
+      `Initial commit\n\nCreated with divramod-ts/divramod-ts@${hash}`,
     ],
     opts
   );
