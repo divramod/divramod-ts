@@ -1,6 +1,6 @@
 {
   "name": "divramod-ts",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "A typescript starter for building javascript libraries and projects",
   "bin": {
     "divramod-ts": "./bin/divramod-ts"
