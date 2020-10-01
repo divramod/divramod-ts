@@ -163,7 +163,7 @@ export const getRepoInfo = (starterVersion: string) => {
       }
     : {
         branch: `v${starterVersion}`,
-        repo: 'https://github.com/bitjson/typescript-starter.git',
+        repo: 'https://github.com/divramod/divramod-typescript-starter.git',
       };
 };
 
