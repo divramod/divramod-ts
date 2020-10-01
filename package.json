@@ -3,7 +3,8 @@
   "version": "0.0.13",
   "description": "A typescript starter for building javascript libraries and projects",
   "bin": {
-    "dts": "./bin/dts"
+    "divramod-ts": "./bin/divramod-ts",
+    "dts": "./bin/divramod-ts"
   },
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
