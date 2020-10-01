@@ -31,6 +31,8 @@ export const cloneRepo = (
 ) => {
   const projectDir = join(workingDirectory, dir);
   const gitHistoryDir = join(projectDir, '.git');
+  console.log('repoinof')
+  console.log(repoInfo)
   const args =
     repoInfo.branch === '.'
       ? ['clone', '--depth=1', repoInfo.repo, dir]
