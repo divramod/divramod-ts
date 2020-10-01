@@ -7,4 +7,4 @@
 - checkout tag with new version ```git tag v3.1.9```
 - push tags: ```git push origin --tags````
 - npm publish: ```npm publish````
-- install:
+- install: ```yarn global remove divramod-typescript-starter```
