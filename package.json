@@ -1,6 +1,6 @@
 {
   "name": "dts",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "A typescript starter for building javascript libraries and projects",
   "bin": {
     "dts": "./bin/dts"
